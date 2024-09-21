@@ -1,0 +1,2 @@
+const clintId = ""
+const clientSecret = ""
